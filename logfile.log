@@ -1,0 +1,356 @@
+2023-04-01 12:23:30,648 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-01 12:23:30,868 - __main__ - INFO - Getting face vector...
+2023-04-01 12:23:30,876 - __main__ - INFO - Updating new image...
+2023-04-01 12:23:31,325 - __main__ - INFO - Image has already fetched...
+2023-04-01 12:23:31,326 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:24:04,820 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/male.jpg
+2023-04-01 12:24:04,964 - __main__ - INFO - Getting face vector...
+2023-04-01 12:24:04,967 - __main__ - INFO - Updating new image...
+2023-04-01 12:24:05,003 - __main__ - INFO - Extracting features...
+2023-04-01 12:24:08,854 - __main__ - INFO - Cropping eyes...
+2023-04-01 12:24:08,980 - __main__ - INFO - Cropping face...
+2023-04-01 12:24:08,981 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:24:49,568 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/male.jpg
+2023-04-01 12:24:49,701 - __main__ - INFO - Getting face vector...
+2023-04-01 12:24:49,703 - __main__ - INFO - Updating new image...
+2023-04-01 12:24:49,729 - __main__ - INFO - Extracting features...
+2023-04-01 12:24:52,832 - __main__ - INFO - Cropping eyes...
+2023-04-01 12:24:52,833 - __main__ - INFO - Cropping face...
+2023-04-01 12:24:52,834 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:26:33,708 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-01 12:26:33,844 - __main__ - INFO - Getting face vector...
+2023-04-01 12:26:33,845 - __main__ - INFO - Updating new image...
+2023-04-01 12:26:33,880 - __main__ - INFO - Image has already fetched...
+2023-04-01 12:26:33,881 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:28:23,787 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-01 12:28:23,925 - __main__ - INFO - Getting face vector...
+2023-04-01 12:28:23,926 - __main__ - INFO - Updating new image...
+2023-04-01 12:28:23,963 - __main__ - INFO - Image has already fetched...
+2023-04-01 12:28:23,964 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:29:09,442 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-01 12:29:09,570 - __main__ - INFO - Getting face vector...
+2023-04-01 12:29:09,572 - __main__ - INFO - Updating new image...
+2023-04-01 12:29:09,605 - __main__ - INFO - Image has already fetched...
+2023-04-01 12:29:09,606 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-01 12:37:03,684 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-01 12:37:04,677 - __main__ - INFO - Getting face vector...
+2023-04-01 12:37:04,685 - __main__ - INFO - Updating new image...
+2023-04-01 12:37:05,045 - __main__ - INFO - Image has already fetched...
+2023-04-01 12:37:05,046 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-02 11:00:07,166 - __main__ - INFO - Image: D:/Face recognition/test.jpg
+2023-04-02 11:00:07,459 - __main__ - INFO - Getting face vector...
+2023-04-02 11:00:07,466 - __main__ - INFO - Updating new image...
+2023-04-02 11:00:08,017 - __main__ - INFO - Image has already fetched...
+2023-04-02 11:00:08,017 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-02 11:00:11,208 - __main__ - INFO - Loading model: faceshapemod_aug_best_auc_128x128x1_7.h5
+2023-04-02 11:00:14,639 - __main__ - INFO - Loading model: forehead_aug_5_128x128x1_3.h5
+2023-04-02 11:00:18,297 - __main__ - INFO - Loading model: jawtypemod_aug_best_auc_128x128x1_3.h5
+2023-04-02 11:00:22,209 - __main__ - INFO - Loading model: skintone_aug_best_auc_128x128x3_3.h5
+2023-04-02 11:00:26,397 - __main__ - INFO - Loading model: conditional gan
+2023-04-02 11:00:28,243 - __main__ - INFO - Loading model: super resolution gan
+2023-04-02 11:00:38,889 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:00:58,290 - __main__ - INFO - Getting face vector...
+2023-04-02 11:00:58,290 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.525, 'round'), (0.15, 'heart'), (0.125, 'oblong'), (0.1, 'square'), (0.05, 'triangle'), (0.05, 'oval')], 'ratio': 'wider', 'jawtype': 'defined', 'beard': 'yes', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'big', 'eyes_narrow': 'no', 'eyes_iris': 'blue', 'forehead': 'big', 'bangs': 'no', 'lips': 'big', 'mustache': 'yes', 'bald': 'no', 'hair': 'black', 'skintone': 'warm', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-02 11:01:03,808 - __main__ - DEBUG - Triggered face event: None
+2023-04-02 11:01:03,808 - __main__ - INFO - New face vector: None
+2023-04-02 11:01:03,808 - __main__ - ERROR - An error occured while extracting/editing a facevector: 'NoneType' object has no attribute 'items'
+2023-04-02 11:01:12,426 - __main__ - INFO - Explanation of expert system: Face shape:
+	Round by 52.5%
+		It is worth paying attention to the cat-eye frames, rectangular, square and angular in generall. It is better to avoid round, oval, not elongated and thick frames. Consider the option of rim and semi-rim models. Suitable shades of brown and black. And try frames with prints.
+	Heart by 15.0%
+		You have a pointed chin. For harmony, it is better to choose bottom-heavy frames. Experiment with the retro style. You should pay attention to the oval, clubmaster, aviators frames. It is better to avoid narrowing and very thin models. Light, light colors, shades of brown will suit you.
+	Oblong by 12.5%
+		It is worth paying attention to the round-shaped frames and aviators. For greater harmony, it is recommended to consider frames that are elongated in height rather than in width. Try frames where the color of the temples differs from the main color.
+	Square by 10.0%
+		It is worth paying attention to the frames of round, oval shape, and smoothed curves. It is better to avoid square and rectangular frames, which attract attention to the jaw. Consider the option of wide plastic frames. Experiment with colors, try bright prints.
+	Triangle by 5.0%
+		It is worth paying attention to the cat-eye frames, Clubmasters, round. Thin metal or plastic frames will suit you. It's better to avoid frames with dark shades. Light colors will suit you. Also consider the option of transparent plastic frames.
+	Oval by 5.0%
+		Thin frames are not the best choice (make you look wider), basically all frames are good. It is worth paying attention to the frames of square shape, rectangular, aviators. It is better to avoid frames that are too large or too small. Rim and semi-rim frames are a good choice for a long face. Any color suits you.
+Face ratio:
+	Wider
+		Frames that are elongated in width will suit you.
+Jaw shape:
+	Has beard
+		The beard shifts the emphasis down, it is recommended to consider top-heavy models.
+Eyebrows:
+	Thin
+		Thick frames will highlight the eye area.
+	Flat line
+		The shape of the upper part of the frame should follow the line of the eyebrows.
+Nose size:
+	Large
+		Thick frames will help shift attention from a large nose. The absence of nosepads will play in favor.
+Eyes:
+	Blue
+		Suitable models has blue, orange, and red shades. Also consider the option of transparent plastic frames.
+Forehead:
+	Big
+		Thick rim frames will help you shift the accent from your forehead.
+Lips:
+	Big
+		Thick rim frames will help you shift the accent from your lips.
+Hair:
+	Black
+		Metal frames with dark and shiny shades. Also consider the option of transparent plastic frames.
+Skin tone:
+	Warm
+		Warm colors and frames with gold will suit you
+	Pale
+		A great idea would be to use contrast tones to your skin: black, brown models. Also consider the option of transparent plastic frames. Rimless frames are not the best choice. They will make you look older.
+Sex:
+	Male
+		According to the research, men prefer semirim or rimless metalic glasses.
+
+2023-04-02 11:05:51,239 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/male.jpg
+2023-04-02 11:05:51,411 - __main__ - INFO - Getting face vector...
+2023-04-02 11:05:51,413 - __main__ - INFO - Updating new image...
+2023-04-02 11:05:51,484 - __main__ - INFO - Extracting features...
+2023-04-02 11:05:56,846 - __main__ - INFO - Cropping eyes...
+2023-04-02 11:05:56,927 - __main__ - INFO - Cropping face...
+2023-04-02 11:05:56,928 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-02 11:05:59,947 - __main__ - INFO - Loading model: faceshapemod_aug_best_auc_128x128x1_7.h5
+2023-04-02 11:06:03,300 - __main__ - INFO - Loading model: forehead_aug_5_128x128x1_3.h5
+2023-04-02 11:06:06,819 - __main__ - INFO - Loading model: jawtypemod_aug_best_auc_128x128x1_3.h5
+2023-04-02 11:06:10,572 - __main__ - INFO - Loading model: skintone_aug_best_auc_128x128x3_3.h5
+2023-04-02 11:06:14,707 - __main__ - INFO - Loading model: conditional gan
+2023-04-02 11:06:16,291 - __main__ - INFO - Loading model: super resolution gan
+2023-04-02 11:06:20,846 - __main__ - INFO - Getting face vector...
+2023-04-02 11:06:25,484 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:06:35,926 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:06:42,629 - __main__ - INFO - Getting face vector...
+2023-04-02 11:06:42,629 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.3, 'round'), (0.3, 'heart'), (0.275, 'oblong'), (0.125, 'oval')], 'ratio': 'normal', 'jawtype': 'soft', 'beard': 'no', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'small', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'normal', 'mustache': 'no', 'bald': 'no', 'hair': 'black', 'skintone': 'neutral', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-02 11:06:47,396 - __main__ - DEBUG - Triggered face event: None
+2023-04-02 11:06:47,396 - __main__ - INFO - New face vector: None
+2023-04-02 11:06:47,397 - __main__ - ERROR - An error occured while extracting/editing a facevector: 'NoneType' object has no attribute 'items'
+2023-04-02 11:07:12,813 - __main__ - INFO - Explanation of expert system: Face shape:
+	Round by 30.0%
+		It is worth paying attention to the cat-eye frames, rectangular, square and angular in generall. It is better to avoid round, oval, not elongated and thick frames. Consider the option of rim and semi-rim models. Suitable shades of brown and black. And try frames with prints.
+	Heart by 30.0%
+		You have a pointed chin. For harmony, it is better to choose bottom-heavy frames. Experiment with the retro style. You should pay attention to the oval, clubmaster, aviators frames. It is better to avoid narrowing and very thin models. Light, light colors, shades of brown will suit you.
+	Oblong by 27.5%
+		It is worth paying attention to the round-shaped frames and aviators. For greater harmony, it is recommended to consider frames that are elongated in height rather than in width. Try frames where the color of the temples differs from the main color.
+	Oval by 12.5%
+		Thin frames are not the best choice (make you look wider), basically all frames are good. It is worth paying attention to the frames of square shape, rectangular, aviators. It is better to avoid frames that are too large or too small. Rim and semi-rim frames are a good choice for a long face. Any color suits you.
+Face ratio:
+	Balanced
+		
+Jaw shape:
+	Soft
+		Angular frames will be the best choice.
+Eyebrows:
+	Thin
+		Thick frames will highlight the eye area.
+	Flat line
+		The shape of the upper part of the frame should follow the line of the eyebrows.
+Nose size:
+	Small
+		Можно смело рассматривать модели с носоупорами. Полуобоковые и безободковые оправы стоят рассмотрения.
+Eyes:
+	Hazel/Brown
+		Suitable models has brown, blue, dark green, and light shades. Also consider the option of transparent plastic frames.
+Forehead:
+	Small or is hidden behind the bangs
+		Consider examining not very thick frames.
+Lips:
+	Normal
+		Consider examining not very thick frames.
+Hair:
+	Black
+		Metal frames with dark and shiny shades. Also consider the option of transparent plastic frames.
+Skin tone:
+	Neutral
+		Any colors will suit you.
+	Pale
+		A great idea would be to use contrast tones to your skin: black, brown models. Also consider the option of transparent plastic frames. Rimless frames are not the best choice. They will make you look older.
+Sex:
+	Male
+		According to the research, men prefer semirim or rimless metalic glasses.
+
+2023-04-02 11:07:39,337 - __main__ - INFO - Processing: D:/Face recognition/test.jpg
+2023-04-02 11:07:39,337 - __main__ - INFO - Updating new image...
+2023-04-02 11:07:39,358 - __main__ - INFO - Image has already fetched...
+2023-04-02 11:07:39,362 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:07:44,085 - __main__ - INFO - Getting face vector...
+2023-04-02 11:07:44,085 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.525, 'round'), (0.15, 'heart'), (0.125, 'oblong'), (0.1, 'square'), (0.05, 'triangle'), (0.05, 'oval')], 'ratio': 'wider', 'jawtype': 'defined', 'beard': 'yes', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'big', 'eyes_narrow': 'no', 'eyes_iris': 'blue', 'forehead': 'big', 'bangs': 'no', 'lips': 'big', 'mustache': 'yes', 'bald': 'no', 'hair': 'black', 'skintone': 'warm', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-02 11:07:48,954 - __main__ - DEBUG - Triggered face event: None
+2023-04-02 11:07:48,954 - __main__ - INFO - New face vector: None
+2023-04-02 11:07:48,954 - __main__ - ERROR - An error occured while extracting/editing a facevector: 'NoneType' object has no attribute 'items'
+2023-04-02 11:08:09,773 - __main__ - INFO - Getting face vector...
+2023-04-02 11:08:09,773 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.525, 'round'), (0.15, 'heart'), (0.125, 'oblong'), (0.1, 'square'), (0.05, 'triangle'), (0.05, 'oval')], 'ratio': 'wider', 'jawtype': 'defined', 'beard': 'yes', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'big', 'eyes_narrow': 'no', 'eyes_iris': 'blue', 'forehead': 'big', 'bangs': 'no', 'lips': 'big', 'mustache': 'yes', 'bald': 'no', 'hair': 'black', 'skintone': 'warm', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-02 11:08:12,886 - __main__ - DEBUG - Triggered face event: None
+2023-04-02 11:08:12,886 - __main__ - INFO - New face vector: None
+2023-04-02 11:08:12,886 - __main__ - ERROR - An error occured while extracting/editing a facevector: 'NoneType' object has no attribute 'items'
+2023-04-02 11:16:32,272 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/WhatsApp Image 2023-03-23 at 21.33.39 (3).jpeg
+2023-04-02 11:16:32,449 - __main__ - INFO - Getting face vector...
+2023-04-02 11:16:32,452 - __main__ - INFO - Updating new image...
+2023-04-02 11:16:32,475 - __main__ - INFO - Extracting features...
+2023-04-02 11:17:16,318 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/social.png
+2023-04-02 11:17:16,484 - __main__ - INFO - Getting face vector...
+2023-04-02 11:17:16,487 - __main__ - INFO - Updating new image...
+2023-04-02 11:17:16,584 - __main__ - INFO - Extracting features...
+2023-04-02 11:17:48,176 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/end.png
+2023-04-02 11:17:48,347 - __main__ - INFO - Getting face vector...
+2023-04-02 11:17:48,350 - __main__ - INFO - Updating new image...
+2023-04-02 11:17:48,400 - __main__ - INFO - Extracting features...
+2023-04-02 11:18:05,802 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/male.jpg
+2023-04-02 11:18:05,972 - __main__ - INFO - Getting face vector...
+2023-04-02 11:18:05,974 - __main__ - INFO - Updating new image...
+2023-04-02 11:18:05,998 - __main__ - INFO - Extracting features...
+2023-04-02 11:18:09,467 - __main__ - INFO - Cropping eyes...
+2023-04-02 11:18:09,468 - __main__ - INFO - Cropping face...
+2023-04-02 11:18:09,469 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-02 11:18:12,530 - __main__ - INFO - Loading model: faceshapemod_aug_best_auc_128x128x1_7.h5
+2023-04-02 11:18:15,787 - __main__ - INFO - Loading model: forehead_aug_5_128x128x1_3.h5
+2023-04-02 11:18:19,334 - __main__ - INFO - Loading model: jawtypemod_aug_best_auc_128x128x1_3.h5
+2023-04-02 11:18:23,150 - __main__ - INFO - Loading model: skintone_aug_best_auc_128x128x3_3.h5
+2023-04-02 11:18:27,227 - __main__ - INFO - Loading model: conditional gan
+2023-04-02 11:18:28,770 - __main__ - INFO - Loading model: super resolution gan
+2023-04-02 11:18:33,400 - __main__ - INFO - Getting face vector...
+2023-04-02 11:18:35,702 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:18:46,786 - __main__ - DEBUG - Image convertion code: 1
+2023-04-02 11:18:58,520 - __main__ - INFO - Getting face vector...
+2023-04-02 11:18:58,520 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.3, 'round'), (0.3, 'heart'), (0.275, 'oblong'), (0.125, 'oval')], 'ratio': 'normal', 'jawtype': 'soft', 'beard': 'no', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'small', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'normal', 'mustache': 'no', 'bald': 'no', 'hair': 'black', 'skintone': 'neutral', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-02 11:19:09,116 - __main__ - DEBUG - Triggered face event: Save changes
+2023-04-02 11:19:09,117 - __main__ - INFO - New face vector: {'ratio': 'normal', 'beard': 'no', 'highcheeckbones': 'no', 'eyebrows_thickness': 'thin', 'nose_size': 'small', 'eyes_iris': 'brown', 'bangs': 'no', 'hair': 'black', 'mustache': 'no', 'paleskin': 'yes', 'jawtype': 'soft', 'doublechin': 'no', 'chubby': 'no', 'eyebrows_shape': 'flat', 'eyes_narrow': 'no', 'forehead': 'notbig', 'lips': 'normal', 'bald': 'no', 'skintone': 'neutral', 'gender': 'male'}
+2023-04-02 11:19:09,117 - __main__ - INFO - Getting face vector...
+2023-04-04 17:06:46,411 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/male.jpg
+2023-04-04 17:06:46,801 - __main__ - INFO - Getting face vector...
+2023-04-04 17:06:46,807 - __main__ - INFO - Updating new image...
+2023-04-04 17:06:47,325 - __main__ - INFO - Extracting features...
+2023-04-04 17:06:51,274 - __main__ - INFO - Cropping eyes...
+2023-04-04 17:06:51,337 - __main__ - INFO - Cropping face...
+2023-04-04 17:06:51,338 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-04 17:06:55,161 - __main__ - INFO - Loading model: faceshapemod_aug_best_auc_128x128x1_7.h5
+2023-04-04 17:06:58,940 - __main__ - INFO - Loading model: forehead_aug_5_128x128x1_3.h5
+2023-04-04 17:07:03,023 - __main__ - INFO - Loading model: jawtypemod_aug_best_auc_128x128x1_3.h5
+2023-04-04 17:07:07,354 - __main__ - INFO - Loading model: skintone_aug_best_auc_128x128x3_3.h5
+2023-04-04 17:07:12,184 - __main__ - INFO - Loading model: conditional gan
+2023-04-04 17:07:14,240 - __main__ - INFO - Loading model: super resolution gan
+2023-04-04 17:07:19,791 - __main__ - INFO - Getting face vector...
+2023-04-04 17:07:23,873 - __main__ - DEBUG - Image convertion code: 1
+2023-04-04 17:07:35,585 - __main__ - DEBUG - Image convertion code: 1
+2023-04-04 17:07:42,540 - __main__ - INFO - Getting face vector...
+2023-04-04 17:07:42,540 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.3, 'round'), (0.3, 'heart'), (0.275, 'oblong'), (0.125, 'oval')], 'ratio': 'normal', 'jawtype': 'soft', 'beard': 'no', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'small', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'normal', 'mustache': 'no', 'bald': 'no', 'hair': 'black', 'skintone': 'neutral', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-04 17:07:47,014 - __main__ - DEBUG - Triggered face event: None
+2023-04-04 17:07:47,015 - __main__ - INFO - New face vector: None
+2023-04-04 17:07:47,015 - __main__ - ERROR - An error occured while extracting/editing a facevector: 'NoneType' object has no attribute 'items'
+2023-04-04 17:07:50,022 - __main__ - INFO - Getting face vector...
+2023-04-04 17:07:50,023 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.3, 'round'), (0.3, 'heart'), (0.275, 'oblong'), (0.125, 'oval')], 'ratio': 'normal', 'jawtype': 'soft', 'beard': 'no', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'small', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'normal', 'mustache': 'no', 'bald': 'no', 'hair': 'black', 'skintone': 'neutral', 'race': 'white', 'paleskin': 'yes', 'gender': 'male'}
+2023-04-04 17:07:54,568 - __main__ - DEBUG - Triggered face event: Save changes
+2023-04-04 17:07:54,569 - __main__ - INFO - New face vector: {'ratio': 'normal', 'beard': 'no', 'highcheeckbones': 'no', 'eyebrows_thickness': 'thin', 'nose_size': 'small', 'eyes_iris': 'brown', 'bangs': 'no', 'hair': 'black', 'mustache': 'no', 'paleskin': 'yes', 'jawtype': 'soft', 'doublechin': 'no', 'chubby': 'no', 'eyebrows_shape': 'flat', 'eyes_narrow': 'no', 'forehead': 'notbig', 'lips': 'normal', 'bald': 'no', 'skintone': 'neutral', 'gender': 'female'}
+2023-04-04 17:07:54,569 - __main__ - INFO - Getting face vector...
+2023-04-04 17:07:56,642 - __main__ - INFO - Getting face vector...
+2023-04-04 17:07:56,642 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.3, 'round'), (0.3, 'heart'), (0.275, 'oblong'), (0.125, 'oval')], 'ratio': 'normal', 'jawtype': 'soft', 'beard': 'no', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'no', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'small', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'normal', 'mustache': 'no', 'bald': 'no', 'hair': 'black', 'skintone': 'neutral', 'race': 'white', 'paleskin': 'yes', 'gender': 'female'}
+2023-04-04 17:08:02,164 - __main__ - DEBUG - Triggered face event: Save changes
+2023-04-04 17:08:02,165 - __main__ - INFO - New face vector: {'ratio': 'normal', 'beard': 'no', 'highcheeckbones': 'no', 'eyebrows_thickness': 'thin', 'nose_size': 'small', 'eyes_iris': 'brown', 'bangs': 'no', 'hair': 'black', 'mustache': 'no', 'paleskin': 'yes', 'jawtype': 'soft', 'doublechin': 'no', 'chubby': 'no', 'eyebrows_shape': 'flat', 'eyes_narrow': 'no', 'forehead': 'notbig', 'lips': 'normal', 'bald': 'no', 'skintone': 'neutral', 'gender': 'male'}
+2023-04-04 17:08:02,165 - __main__ - INFO - Getting face vector...
+2023-04-04 17:08:04,658 - __main__ - INFO - Explanation of expert system: Face shape:
+	Round by 30.0%
+		It is worth paying attention to the cat-eye frames, rectangular, square and angular in generall. It is better to avoid round, oval, not elongated and thick frames. Consider the option of rim and semi-rim models. Suitable shades of brown and black. And try frames with prints.
+	Heart by 30.0%
+		You have a pointed chin. For harmony, it is better to choose bottom-heavy frames. Experiment with the retro style. You should pay attention to the oval, clubmaster, aviators frames. It is better to avoid narrowing and very thin models. Light, light colors, shades of brown will suit you.
+	Oblong by 27.5%
+		It is worth paying attention to the round-shaped frames and aviators. For greater harmony, it is recommended to consider frames that are elongated in height rather than in width. Try frames where the color of the temples differs from the main color.
+	Oval by 12.5%
+		Thin frames are not the best choice (make you look wider), basically all frames are good. It is worth paying attention to the frames of square shape, rectangular, aviators. It is better to avoid frames that are too large or too small. Rim and semi-rim frames are a good choice for a long face. Any color suits you.
+Face ratio:
+	Balanced
+		
+Jaw shape:
+	Soft
+		Angular frames will be the best choice.
+Eyebrows:
+	Thin
+		Thick frames will highlight the eye area.
+	Flat line
+		The shape of the upper part of the frame should follow the line of the eyebrows.
+Nose size:
+	Small
+		Можно смело рассматривать модели с носоупорами. Полуобоковые и безободковые оправы стоят рассмотрения.
+Eyes:
+	Hazel/Brown
+		Suitable models has brown, blue, dark green, and light shades. Also consider the option of transparent plastic frames.
+Forehead:
+	Small or is hidden behind the bangs
+		Consider examining not very thick frames.
+Lips:
+	Normal
+		Consider examining not very thick frames.
+Hair:
+	Black
+		Metal frames with dark and shiny shades. Also consider the option of transparent plastic frames.
+Skin tone:
+	Neutral
+		Any colors will suit you.
+	Pale
+		A great idea would be to use contrast tones to your skin: black, brown models. Also consider the option of transparent plastic frames. Rimless frames are not the best choice. They will make you look older.
+Sex:
+	Male
+		According to the research, men prefer semirim or rimless metalic glasses.
+
+2023-04-04 17:16:23,451 - __main__ - INFO - Explanation of expert system: Face shape:
+	Round by 30.0%
+		It is worth paying attention to the cat-eye frames, rectangular, square and angular in generall. It is better to avoid round, oval, not elongated and thick frames. Consider the option of rim and semi-rim models. Suitable shades of brown and black. And try frames with prints.
+	Heart by 30.0%
+		You have a pointed chin. For harmony, it is better to choose bottom-heavy frames. Experiment with the retro style. You should pay attention to the oval, clubmaster, aviators frames. It is better to avoid narrowing and very thin models. Light, light colors, shades of brown will suit you.
+	Oblong by 27.5%
+		It is worth paying attention to the round-shaped frames and aviators. For greater harmony, it is recommended to consider frames that are elongated in height rather than in width. Try frames where the color of the temples differs from the main color.
+	Oval by 12.5%
+		Thin frames are not the best choice (make you look wider), basically all frames are good. It is worth paying attention to the frames of square shape, rectangular, aviators. It is better to avoid frames that are too large or too small. Rim and semi-rim frames are a good choice for a long face. Any color suits you.
+Face ratio:
+	Balanced
+		
+Jaw shape:
+	Soft
+		Angular frames will be the best choice.
+Eyebrows:
+	Thin
+		Thick frames will highlight the eye area.
+	Flat line
+		The shape of the upper part of the frame should follow the line of the eyebrows.
+Nose size:
+	Small
+		Можно смело рассматривать модели с носоупорами. Полуобоковые и безободковые оправы стоят рассмотрения.
+Eyes:
+	Hazel/Brown
+		Suitable models has brown, blue, dark green, and light shades. Also consider the option of transparent plastic frames.
+Forehead:
+	Small or is hidden behind the bangs
+		Consider examining not very thick frames.
+Lips:
+	Normal
+		Consider examining not very thick frames.
+Hair:
+	Black
+		Metal frames with dark and shiny shades. Also consider the option of transparent plastic frames.
+Skin tone:
+	Neutral
+		Any colors will suit you.
+	Pale
+		A great idea would be to use contrast tones to your skin: black, brown models. Also consider the option of transparent plastic frames. Rimless frames are not the best choice. They will make you look older.
+Sex:
+	Male
+		According to the research, men prefer semirim or rimless metalic glasses.
+
+2023-04-04 17:17:31,104 - __main__ - INFO - Image: C:/Users/Hansaka Konara/Downloads/2022-08-17 14.19.jpg
+2023-04-04 17:17:31,328 - __main__ - INFO - Getting face vector...
+2023-04-04 17:17:31,330 - __main__ - INFO - Updating new image...
+2023-04-04 17:17:31,525 - __main__ - INFO - Extracting features...
+2023-04-04 17:18:08,773 - __main__ - INFO - Cropping eyes...
+2023-04-04 17:18:08,775 - __main__ - INFO - Cropping face...
+2023-04-04 17:18:08,804 - __main__ - INFO - Loading model: eye_color_plus_aug_best_auc_64x64x3_3.h5
+2023-04-04 17:18:12,272 - __main__ - INFO - Loading model: faceshapemod_aug_best_auc_128x128x1_7.h5
+2023-04-04 17:18:16,024 - __main__ - INFO - Loading model: forehead_aug_5_128x128x1_3.h5
+2023-04-04 17:18:19,989 - __main__ - INFO - Loading model: jawtypemod_aug_best_auc_128x128x1_3.h5
+2023-04-04 17:18:24,285 - __main__ - INFO - Loading model: skintone_aug_best_auc_128x128x3_3.h5
+2023-04-04 17:18:28,921 - __main__ - INFO - Loading model: conditional gan
+2023-04-04 17:18:30,690 - __main__ - INFO - Loading model: super resolution gan
+2023-04-04 17:18:35,857 - __main__ - INFO - Getting face vector...
+2023-04-04 17:18:38,486 - __main__ - DEBUG - Image convertion code: 1
+2023-04-04 17:18:54,307 - __main__ - DEBUG - Image convertion code: 1
+2023-04-04 17:19:05,319 - __main__ - INFO - Getting face vector...
+2023-04-04 17:19:05,320 - __main__ - INFO - Extracted face vector: {'faceshape': [(0.425, 'triangle'), (0.425, 'round'), (0.15, 'oval')], 'ratio': 'normal', 'jawtype': 'defined', 'beard': 'yes', 'doublechin': 'no', 'highcheeckbones': 'no', 'chubby': 'yes', 'eyebrows_thickness': 'thin', 'eyebrows_shape': 'flat', 'nose_size': 'big', 'eyes_narrow': 'no', 'eyes_iris': 'brown', 'forehead': 'notbig', 'bangs': 'no', 'lips': 'big', 'mustache': 'yes', 'bald': 'no', 'hair': 'black', 'skintone': 'warm', 'race': 'hispanic', 'paleskin': 'no', 'gender': 'male'}
+2023-04-04 17:19:32,825 - __main__ - DEBUG - Triggered face event: Save changes
+2023-04-04 17:19:32,825 - __main__ - INFO - New face vector: {'ratio': 'normal', 'beard': 'yes', 'highcheeckbones': 'no', 'eyebrows_thickness': 'thin', 'nose_size': 'big', 'eyes_iris': 'brown', 'bangs': 'no', 'hair': 'black', 'mustache': 'yes', 'paleskin': 'no', 'jawtype': 'defined', 'doublechin': 'no', 'chubby': 'yes', 'eyebrows_shape': 'flat', 'eyes_narrow': 'no', 'forehead': 'notbig', 'lips': 'big', 'bald': 'no', 'skintone': 'warm', 'gender': 'male'}
+2023-04-04 17:19:32,825 - __main__ - INFO - Getting face vector...
